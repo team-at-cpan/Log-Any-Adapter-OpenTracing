@@ -16,6 +16,8 @@ use utf8;
 
 =head1 NAME
 
+Log::Any::Adapter::OpenTracing - Log::Any support for OpenTracing spans
+
 =head1 SYNOPSIS
 
  use OpenTracing::DSL qw(:v1);
